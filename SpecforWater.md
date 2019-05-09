@@ -29,6 +29,7 @@
   - [水利水电工程施工导流设计规范SL623-2013](http://jz.docin.com/p-1044792513.html?docfrom=rrela)
 
 ## Surveying
+  - [Standards and Specifications for Geodetic Control Networks](https://www.ngs.noaa.gov/FGCS/tech_pub/1984-stds-specs-geodetic-control-networks.htm#3.2)
   - [NationaL Geodetic Survey](https://www.ngs.noaa.gov/)
   - [Standard Publications-FDGC Federal Geographic Data Committee](https://www.fgdc.gov/standards/standards_publications/index_html)
   - [British Columbia Standards, Specifications and Guidelines for Resource Surveys Using Global Positioning System (GPS) Technology](https://www.for.gov.bc.ca/dkm/ESF_Info/GPS_Standards_Resource_Surveys.pdf)
